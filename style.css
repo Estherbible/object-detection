@@ -1,0 +1,58 @@
+body{
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+
+.food{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 33px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+}
+.vehicles{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 33px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+
+}
+
+.animals{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 33px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+
+}
+
+
